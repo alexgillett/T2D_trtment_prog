@@ -1,0 +1,319 @@
+medcodeid	term
+138421012	Agitated depression
+294642013	Presenile dementia with depression
+294646011	Senile dementia with depression
+294824018	Single major depressive episode, unspecified
+294825017	Mild major depression, single episode
+294826016	Moderate major depression, single episode
+294828015	Single major depressive episode, severe, with psychosis
+294831019	Single episode of major depression in full remission
+294832014	Single major depressive episode NOS
+294836012	Recurrent major depressive episodes, unspecified
+294837015	Recurrent major depressive episodes, mild
+294838013	Recurrent major depressive episodes, moderate
+294840015	Recurrent major depressive episodes, severe, with psychosis
+294843018	Recurrent major depression in full remission
+294844012	Recurrent depression
+294845013	Recurrent major depressive episode NOS
+294894013	Atypical depressive disorder
+294917018	Reactive depressive psychosis
+294918011	Psychotic reactive depression
+295535012	Depressive disorder
+295537016	Chronic depression
+296137015	Mild depression
+296138013	[X]Moderate depressive episode
+296180012	[X]Recurrent depressive disorder, current episode mild
+296181011	[X]Recurrent depressive disorder, current episode moderate
+296198011	[X]Recurrent depressive disorder, currently in remission
+296199015	[X]Other recurrent depressive disorders
+346972018	Endogenous depression first episode
+346973011	Masked depression
+369982012	Seasonal affective disorder
+401766011	Major depression, single episode
+401866015	[X]Severe depressive episode without psychotic symptoms
+401869010	[X]Severe depressive episode with psychotic symptoms
+401871010	[X]Other depressive episodes
+401872015	[X]Depressive episode, unspecified
+401873013	[X]Recurrent depressive disorder
+401876017	[X]Recurrent depressive disorder, unspecified
+410861011	Endogenous depression - recurrent
+441826016	Endogenous depression
+1773563015	Depression management programme
+2533375017	Patient given advice about management of depression
+2534091015	Depression interim review
+2534092010	Depression medication review
+2534096013	Depression annual review
+3517985017	Postpartum major depression in remission
+142521000006110	Major depression single episode, in partial remission
+142541000006115	Severe major depression, single episode
+182721000006111	Recurrent major depressive episodes
+182771000006112	Recurrent major depressive episodes, severe
+182801000006114	Recurrent major depressive episodes,partial/unspec remission
+202561000006114	Prolonged depressive adjustment reaction
+213641000000111	[X]Mild depression
+223741000000112	Severe depression
+294621000000118	Depression resolved
+359121000006116	Reactive depression
+366561000006119	[X]Atypical depression
+367061000006114	Psychosis and severe depression co-occurrent and due to bipolar affective disorder
+376691000006116	Depression
+376711000006118	[X]Depressive disorder NOS
+376721000006114	Depressive episode
+376741000006119	[X]Depressive neurosis
+379431000006113	Dysthymia
+379771000006116	[X]Endogenous depression with psychotic symptoms
+379781000006118	[X]Endogenous depression without psychotic symptoms
+396081000006116	[X]Major depression, recurrent without psychotic symptoms
+396771000006117	[X] Manic-depressive psychosis, depressed type without psychotic symptoms
+396781000006119	[X]Manic-depress psychosis,depressed type+psychotic symptoms
+398351000006110	[X]Mild anxiety depression
+398561000006117	[X]Mixed anxiety and depressive disorder
+398841000006119	[X]Monopolar depression NOS
+399841000006110	[X]Neurasthenia
+399961000006118	Depressive neurosis
+408521000000112	Depression monitoring first letter
+408541000000117	Depression monitoring second letter
+408561000000116	Depression monitoring third letter
+408581000000113	Depression monitoring verbal invitation
+408601000000116	Depression monitoring telephone invitation
+419841000006116	[X]Persistant anxiety depression
+423041000006119	[X]Post-schizophrenic depression
+423611000006111	[X]Prolonged single episode of reactive depression
+424531000006118	[X]Recurr depress disorder cur epi severe without psyc sympt
+424541000006111	[X]Recurr severe episodes/major depression+psychotic symptom
+424551000006113	[X]Recurr severe episodes/psychogenic depressive psychosis
+424561000006110	[X]Recurrent brief depressive episodes
+424571000006115	[X]Recurrent depress disorder cur epi severe with psyc symp
+424631000006119	[X]Recurrent episodes of depressive reaction
+424641000006112	[X]Recurrent episodes of psychogenic depression
+424651000006114	[X]Recurrent episodes of reactive depression
+424671000006116	[X]Recurrent severe episodes of psychotic depression
+424681000006118	Recurrent reactive depressive episodes, severe, with psychosis
+425411000006110	SAD - Seasonal affective disorder
+425501000006113	Schizoaffective disorder, depressive type
+425561000006114	[X]Schizoaffective psychosis, depressive type
+425691000006119	[X]Schizophreniform psychosis, depressive type
+425751000006115	[X]Seasonal depressive disorder
+426891000006114	[X] Single episode agitated depression without psychotic symptoms
+426911000006111	[X]Single episode of depressive reaction
+426921000006115	[X]Single episode of major depression and psychotic symptoms
+426931000006117	[X]Single episode of masked depression NOS
+426941000006110	[X]Single episode of psychogenic depression
+426951000006112	[X]Single episode of psychogenic depressive psychosis
+426961000006114	[X]Single episode of psychotic depression
+426971000006119	[X]Single episode of reactive depression
+426981000006116	[X]Single episode of reactive depressive psychosis
+426991000006118	[X]Single episode vital depression w'out psychotic symptoms
+432511000006119	[X]Vital depression, recurrent without psychotic symptoms
+474171000006112	Agitated depression
+488211000006112	Mixed anxiety and depressive disorder
+513721000006114	Bipolar affect disord, now depressed, severe with psychosis
+513861000006113	Bipolar affective disorder, currently depressed, in full remission
+613781000006118	Depressive personality disorder
+613791000006115	Depressive psychoses
+642461000006116	Endogenous depression first episode
+675861000006113	Reactive depression (situational)
+677031000006115	Nervous exhaustion
+677321000006115	Neurasthenia
+882401000006115	Reactive (neurotic) depression
+882421000006113	Depressive personality
+882811000006119	Mild depression
+882821000006110	Moderate depression
+882831000006113	Severe depression
+967791000006111	[X]Cotard syndrome
+999901000006113	Excepted from depression quality indicators - patient unsuitable
+999911000006111	Excepted from depression quality indicators - informed dissent
+1715181000006114	Moderate major depression
+1715191000006112	Severe major depression with psychotic features
+1715771000006112	Mild major depression
+1715781000006110	Severe major depression without psychotic features
+1755901000006112	[X]Single major depressive episode, severe, with psychosis, psychosis in remission
+1755911000006110	[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission
+2724681000006112	Chronic major depressive disorder, single episode
+2729751000000118	Recurrent depression with current severe episode and psychotic features
+2729991000000112	Recurrent depression with current severe episode without psychotic features
+2730011000000110	Recurrent depression with current moderate episode
+2798691000006112	Moderate recurrent major depression
+2821731000006115	Severe major depression, single episode, with psychotic features, mood-incongruent
+2914841000006115	Major depressive disorder, single episode with postpartum onset
+2957311000006113	Severe recurrent major depression with psychotic features
+2993091000006116	Major depression in partial remission
+3033261000006113	Recurrent major depression in partial remission
+3071791000006111	Depressive illness
+3087971000006112	Severe recurrent major depression without psychotic features
+3094951000006111	Major depressive disorder, single episode
+3149661000006117	Mild recurrent major depression
+3153071000006116	Recurrent brief depressive disorder
+3190221000006112	Major depression in remission
+3192061000006110	Major depressive disorder, single episode with atypical features
+3531371000006112	Major depression in complete remission
+3537261000006119	Major depressive disorder, single episode with melancholic features
+3606411000006115	Recurrent major depression in remission
+3628471000006116	Major depressive disorder, single episode with catatonic features
+3700911000006115	Psychotic depression
+3743451000006110	Severe major depression, single episode, without psychotic features
+3767531000006119	Severe major depression, single episode, with psychotic features, mood-congruent
+5023901000006110	Post-schizophrenic depression
+5024071000006118	Anxiety depression
+5106051000006119	Mild postnatal depression
+6000711000006112	Moderate depression
+6201561000006118	Cotard's syndrome
+6337491000006116	Major depressive disorder
+6337501000006112	Major depression
+7061221000006119	Premenstrual dysphoric disorder in remission
+7515151000006115	Depressive disorder in remission
+7803711000006118	Moderately severe major depression single episode
+7803731000006112	Minimal major depression single episode
+8089301000006110	Reactive depressive psychosis, single episode
+8214741000006117	Depression monitoring invitation
+8232571000006118	Single major depressive episode, severe, with psychosis, psychosis in remission
+8232591000006117	Recurrent major depressive episodes, severe, with psychosis, psychosis in remission
+8237831000006115	Recurrent major depressive episodes, in partial remission
+8237851000006110	Single major depressive episode, in remission
+8459471000006114	Depression monitoring invitation email
+8459491000006110	Depression monitoring invitation SMS (short message service) text message
+8465321000006112	Reactive depression, prolonged single episode
+9901161000006119	Mild major depressive disorder co-occurrent with anxiety single episode
+9901261000006114	Moderate major depressive disorder co-occurrent with anxiety single episode
+9901281000006116	Severe major depressive disorder co-occurrent with anxiety single episode
+12127531000006113	Recurrent mild major depressive disorder co-occurrent with anxiety
+12127541000006115	Recurrent severe major depressive disorder co-occurrent with anxiety
+12127551000006118	Recurrent moderate major depressive disorder co-occurrent with anxiety
+12127561000006116	Recurrent major depressive disorder co-occurrent with anxiety in full remission
+12127571000006111	Recurrent major depressive disorder in partial remission co-occurrent with anxiety
+12626331000006116	QOF (Quality and Outcomes Framework) depression quality indicator-related care invitation
+12734331000006115	QOF (Quality and Outcomes Framework) depression quality indicator-related care invitation using preferred method of communication
+13716011000006116	Depressive disorder caused by amphetamine
+13902421000006110	Antenatal depression
+13962531000006113	Follow up for depression
+14013791000006119	Depressive disorder caused by methamphetamine
+14452211000006113	Treatment resistant depression
+14452261000006111	Persistent depressive disorder
+15048961000006116	Postmenopausal depression
+882671000006112	Depression
+882681000006110	Depression NOS
+251629019	H/O: depression
+294655014	Arteriosclerotic dementia with depression
+295494011	Brief depressive reaction NOS
+295536013	Postviral depression
+1231868010	Puerperal depression
+2474715017	On depression register
+2474716016	Removed from depression register
+223651000000118	Postpartum depression
+300711000000119	Referral for guided self-help for depression
+376701000006116	[X]Depressive conduct disorder
+423131000006113	[X]Postnatal depression NOS
+423141000006115	[X]Postpartum depression NOS
+525921000006119	Brief depressive adjustment reaction
+226411000000110	Depression enhanced services administration
+226581000000119	Depression enhanced service completed
+376751000006117	Depressive personality disorder
+406881000000111	Depression monitoring administration
+1680571000006118	On full dose long term treatment depression - enh serv admin
+1785881000006119	Antenatal depression
+909681000006110	[RFC] Depression
+1823881000006110	Depression confirmed
+1222477019	[D]Postoperative depression
+13974501000006115	Depressive episode
+14357561000006116	Digital cognitive behavioural therapy for depression
+14357571000006111	Digital CBT (cognitive behavioural therapy) for depression
+1488771018	Postnatal depression counselling
+1972111000006114	Organic depressive disorder
+1975981000006114	Mild depressive episode, without somatic syndrome
+1975991000006112	Mild depressive episode, with somatic syndrome
+1976021000006115	Moderate depressive episode, without somatic syndrome
+1976051000006112	Moderate depressive episode, with somatic syndrome
+1976211000006116	Recurrent depressive disorder, current episode mild, without somatic syndrome
+1976231000006110	Recurrent depressive disorder, current episode mild, with somatic syndrome
+1976251000006115	Recurrent depressive disorder, current episode moderate, without somatic syndrome
+1976271000006113	Recurrent depressive disorder, current episode moderate, with somatic syndrome
+1976411000006115	Other recurrent mood affective disorders, recurrent brief depressive disorder
+1976491000006113	Mixed anxiety and depressive reaction
+2370061000000111	Referral for depression self-help video
+2391541000000115	Referral for guided self-help for depression declined
+2620391000000111	Maternal postnatal depression
+2659601000000116	Signposting to depression self-help group
+294081000000110	Exception reporting - depression quality indicators
+294690018	Drug-induced depressive state
+3578861000006116	Recurrent major depressive disorder
+4539971000006110	History of depression
+5106061000006117	Severe postnatal depression
+5359021000006116	Depression
+681801000000113	On full dose long term treatment for depression
+7127661000006118	Major depressive disorder, single episode, severe with psychotic features
+7788661000006119	Moderately severe depression
+8100481000006111	History of postnatal depression
+8308801000006112	Did not attend depression review
+853871000006111	Post natal depression
+908731000006114	[RFC] Postnatal depression
+2540711000006115	Chronic recurrent major depressive disorder
+3140411000006112	Recurrent major depressive disorder with catatonic features
+3286331000006115	Minor depressive disorder
+3578851000006118	Recurrent major depression
+5024511000006118	Depressive conduct disorder
+7382291000006112	Severe major depression
+7695931000006118	Acute depression
+7965191000006118	Severe recurrent major depression
+8465361000006118	Reactive depression, first episode
+13974511000006117	Episode of depression
+31960011	Mood swings
+51590017	Dysphoric mood
+253619019	O/E - depressed
+317091018	Feeling unhappy
+503673014	Blunted affect
+504002010	Worried
+1488626018	Symptoms of depression
+2164005017	Depressed mood
+981181000006117	Mood swings
+1650771000000113	Suspected depression
+1806431000006113	Adjustment disorder with depressed mood
+2597871000006110	Blunting of mood
+2801051000006117	Labile mood
+2827681000006119	Indifference
+2898351000006113	Emotionally detached
+3371721000006110	Mood insomnia
+5248531000006111	Depressive preoccupation
+5248911000006110	Depression worse in morning
+5248931000006116	Depression worse later in day
+5531851000006118	Crying associated with mood
+5532721000006114	Complaining of feeling depressed
+5532751000006117	Complaining of feeling unhappy
+6707581000006114	Level of depression
+7483151000006113	Suspected depressive disorder
+296245018	[X]Other mixed anxiety disorders
+406968019	Tearful
+407062014	C/O - feeling depressed
+407066012	C/O - feeling unhappy
+1494612017	Depressive symptoms
+2164006016	Depressed
+2164009011	Low mood
+983861000006115	Sad mood
+2597861000006115	Emotional blunting
+2800971000006118	Emotional lability
+2800981000006115	Emotional instability
+2800991000006117	Emotionally labile
+2801001000006116	Labile in mood
+2801011000006118	Mood swing
+2801021000006114	Variable mood
+2801031000006112	Changeable mood
+2801041000006119	Unstable mood
+2827691000006116	Apathy
+2827771000006110	Listless
+2898361000006110	Detachment, mental
+2996851000006112	Dysphoria
+3071801000006112	Depressed
+3733211000006112	Mood disorder, condition with depressive features
+3785091000006118	Worry
+3785101000006112	Worrying
+3785111000006110	Anxious cognitions
+5248921000006119	Feels low in the mornings
+5531871000006111	Weepiness
+5531881000006114	Crying associated with emotion
+5531891000006112	Tearfulness
+6707591000006112	Depression level
+6947111000006113	Unhappy
+6947121000006117	Feeling sad
+8035341000006119	Positive screening for depression on PHQ-9 (Patient Health Questionnaire 9)
+369915018	Loss of interest
+369972011	Loss of capacity for enjoyment
+734561000006117	Loss of interest
