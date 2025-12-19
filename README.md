@@ -117,7 +117,17 @@ The following figures were produced:
 
 ## C3. Sensitivity Analyses
 
-To be added: Complete case. Then extras.
+This study included two sensitivity analyses:
+
+1. **Complication count model**, where individual diagnoses were replaced with a single count of T2D-related complications. 
+2. **Three-month landmark analysis**.
+
+Also included in the Sensitivity Analyses folder is code for checking the proportional odds assumption for the depression exposure. This was done by running two models that included interactions between depression and functions of time (years since monotherapy initiation). Please see the [Supplementary Materials](https://www.medrxiv.org/content/10.1101/2025.11.19.25340563v1.supplementary-material) accompanying the manuscript for a description of these models.
+
+The sensitivity analyses for both outcomes were conducted using the following scripts: 
+
+- `01_ttinsulin_sens.R` 
+- `02_ttintens_sens.R` 
 
 --
 
